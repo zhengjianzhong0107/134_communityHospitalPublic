@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1wT421m76s/](https://www.bilibili.com/video/BV1wT421m76s/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的社区医院管理系统(源代码+数据库+万字论文)134
 
